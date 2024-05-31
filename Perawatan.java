@@ -1,0 +1,4 @@
+
+interface Perawatan {
+    void treatment();
+}
